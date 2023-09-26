@@ -1,4 +1,8 @@
 /* Estilos para o menu */
+
+body {
+    font-family: Verdana;
+}
 .menu {
     background-color: #22577d;
     padding: 10px 0;
@@ -24,7 +28,7 @@
 .menu ul li a {
     text-decoration: none;
     color: #fff;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: bold;
     padding: 10px 20px;
     border-radius: 5px;
